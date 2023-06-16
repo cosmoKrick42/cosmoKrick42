@@ -1,5 +1,5 @@
 -👋 Hi, I’m Karthick (@cosmoKrick42)
--👨‍💻 I'm a passionate .NET Developer
+-👨‍💻 I'm a passionate .NET Developer 
 -👀 I’m interested in Web Development and exploring the latest technologies
 -🌱 Currently, I'm focused on learning and mastering .NET Core
 -💡 I'm eager to apply my knowledge to create cool and innovative projects
